@@ -1,3 +1,4 @@
 {"name":"demo","vers":"0.1.0","deps":[],"cksum":"6c1bd436547fa85d8a4d39b518c0809809747f93f2af73b92900005acd40f2b5","features":{},"yanked":false,"v":2}
 {"name":"demo","vers":"0.2.0","deps":[],"cksum":"2d15f0a51e45fd7963e61bf42edc935db552a96f5d37e166e16f25692267f57f","features":{},"yanked":false,"v":2}
 {"name":"demo","vers":"0.2.1","deps":[],"cksum":"8bd18c4c59f0e70ab3f7f07598de39a28ea35e3b3b8f339ea1da6a2ae1db609c","features":{},"yanked":false,"v":2}
+{"name":"demo","vers":"0.2.2","deps":[],"cksum":"da333e6bb790f701e469e714462133d882d63a3761e842130d1f579eabaada4f","features":{},"yanked":false,"v":2}
